@@ -269,8 +269,8 @@
 				"south": false,
 				"east": true,
 				"west": true,
-				"up": true,
-				"down": false
+				"up": false,
+				"down": true
 			}
 		},
 		{
